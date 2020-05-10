@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-first",
-    "slug": "react-native-first",
+    "name": "gallery",
+    "slug": "react-native-gallery",
     "platforms": [
       "ios",
       "android",
