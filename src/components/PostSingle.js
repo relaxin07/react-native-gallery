@@ -8,6 +8,7 @@ import {
 } from 'react-native'
 import { THEME } from '../theme'
 
+//Компонент отображение одного поста
 const PostSingle = ({ post }) => {
   const [height, useHeight] = useState(0)
   const [isReady, useIsReady] = useState(false)

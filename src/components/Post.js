@@ -7,6 +7,7 @@ import {
   TouchableWithoutFeedback,
 } from 'react-native'
 
+//Компонент отображение поста на главное экране
 const Post = ({ postList, onOpen }) => {
   let { urls, description } = postList
 

@@ -2,6 +2,7 @@ import React from 'react'
 import { StyleSheet, FlatList } from 'react-native'
 import Post from './Post'
 
+// Компонент отображение постов на главном экране
 export const PostList = ({ data, onOpen }) => {
   return (
     <FlatList
